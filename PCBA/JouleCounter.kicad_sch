@@ -758,6 +758,10 @@
     (uuid d6373391-1d5c-480c-a163-34c373471402)
   )
 
+  (label "SCL" (at 190.5 55.88 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 00100a18-6382-4e3a-aef3-223a2ae52f38)
+  )
   (label "CC2" (at 254 81.28 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 03eb0192-c65e-4a93-bafb-eeeb6ef46463)
@@ -825,6 +829,10 @@
   (label "I Sense 1" (at 215.9 81.28 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 48e6bbf7-cbfa-4dd7-9c03-e5292771eb60)
+  )
+  (label "~{FUSB IRQ}" (at 190.5 58.42 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 4c6e4844-f617-4c6d-851e-f3facfe81a6f)
   )
   (label "BootMode" (at 262.89 152.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -913,6 +921,10 @@
   (label "BootMode" (at 254 115.57 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d63e1b4c-ba6e-4d38-b37e-6e8233013ca8)
+  )
+  (label "SDA" (at 190.5 53.34 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid de120db6-5f93-4361-862e-556b63a58bde)
   )
   (label "JTAG TMS" (at 69.85 179.07 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1243,6 +1255,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 1da444a2-d5c7-4c17-97dc-1c6bd151e654)
     )
+    (pin "VConn 5V" input (at 215.9 60.96 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 379c6caf-0979-418f-b12e-1231cc5e1912)
+    )
   )
 
   (sheet (at 254 101.6) (size 25.4 25.4) (fields_autoplaced)
@@ -1506,6 +1522,9 @@
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/3110ff89-db45-4c2b-ae20-9f45ed5b62f3"
       (reference "L201") (unit 1) (value "2.2uH") (footprint "")
+    )
+    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/baceac92-88cf-4c29-a2b6-9336e798c4e5"
+      (reference "P?") (unit 1) (value "USB_C_Plug") (footprint "")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/271287de-d1ab-46e7-9e8d-0eca17ee0aae"
       (reference "R201") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
