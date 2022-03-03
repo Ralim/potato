@@ -725,7 +725,7 @@
     (property "Reference" "R?" (id 0) (at 147.32 91.4399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "?" (id 1) (at 149.86 92.71 90)
+    (property "Value" "0.02" (id 1) (at 149.86 90.17 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 148.082 92.71 90)

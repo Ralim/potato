@@ -561,7 +561,7 @@
   )
 
   (no_connect (at 137.16 119.38) (uuid a1e1125b-da34-44af-b434-8e7ac284e301))
-  (no_connect (at 139.7 119.38) (uuid a1e1125b-da34-44af-b434-8e7ac284e301))
+  (no_connect (at 139.7 119.38) (uuid a1e1125b-da34-44af-b434-8e7ac284e302))
 
   (wire (pts (xy 190.5 100.33) (xy 190.5 109.22))
     (stroke (width 0) (type default) (color 0 0 0 0))
