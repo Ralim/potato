@@ -322,8 +322,16 @@
       ""
     ],
     [
-      "2cd3975a-2259-4fa9-8133-e1586b9b9618",
-      "PineNut-12S"
+      "4847c8c0-6173-45c5-9b4b-8c9418cb5a91",
+      "Main MCU"
+    ],
+    [
+      "bb0667b1-b83a-4432-87b4-34375cbaf6fb",
+      "Flash"
+    ],
+    [
+      "7bd54514-8f0a-4683-8b19-da3af36c1bff",
+      "FUSB302"
     ]
   ],
   "text_variables": {}
