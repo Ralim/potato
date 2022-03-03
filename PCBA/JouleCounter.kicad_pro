@@ -332,6 +332,10 @@
     [
       "7bd54514-8f0a-4683-8b19-da3af36c1bff",
       "FUSB302"
+    ],
+    [
+      "11e6ad7b-94c7-4abc-98e0-e4b10d097f65",
+      "Measurement ports"
     ]
   ],
   "text_variables": {}
