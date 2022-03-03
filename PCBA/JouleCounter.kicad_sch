@@ -1,0 +1,27 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 38.1 25.4) (size 38.1 63.5) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2cd3975a-2259-4fa9-8133-e1586b9b9618)
+    (property "Sheet name" "PineNut-12S" (id 0) (at 38.1 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "PineNut.kicad_sch" (id 1) (at 38.1 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/2cd3975a-2259-4fa9-8133-e1586b9b9618" (page "2"))
+  )
+)
