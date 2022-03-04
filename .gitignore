@@ -31,3 +31,5 @@
 *.out
 *.app
 *.zip
+PCBA/#auto_saved_files#
+*.kicad_sch-bak

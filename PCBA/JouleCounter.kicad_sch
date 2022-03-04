@@ -1430,6 +1430,9 @@
     (path "/22f53838-7224-4d50-99f8-44746cd87af7/2116ac8a-6c19-4db6-aec1-63bf7b161e34"
       (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
     )
+    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/3896d8e3-13c4-4e01-a766-927ff0202f2b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/b0bcfef4-b206-452e-922a-e4174969def9/42d40598-f1c5-4992-939b-06617e7a59a8"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -1440,9 +1443,6 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/22f53838-7224-4d50-99f8-44746cd87af7/6a14883c-e23a-4bd5-84e9-8efebed799c9"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/71ab0170-4f26-4c83-a555-73006c324284"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/b0bcfef4-b206-452e-922a-e4174969def9/7e9a9ae1-dcfe-49cc-bd9c-cd4b104862e7"
@@ -1467,6 +1467,9 @@
       (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
     )
     (path "/b0bcfef4-b206-452e-922a-e4174969def9/e988f392-1a6f-4da7-84c4-2e8322b85075"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/fd346e33-b457-40e8-a571-7e0ba9d594b6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/5ab0d0b8-0dee-43b0-9b10-f6994da16df9"
@@ -1508,11 +1511,11 @@
     (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/59fede2b-8c0b-4c6e-adfc-56a312ce6646"
       (reference "J?") (unit 1) (value "Jack-DC") (footprint "")
     )
-    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/8333bcf3-084f-4c3e-bf4f-38c003a55b99"
-      (reference "J?") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "")
-    )
     (path "/83753f19-1938-4fce-8198-e7ca63503313"
       (reference "J?") (unit 1) (value "JTAG") (footprint "")
+    )
+    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/849ef7e5-8097-4aee-8015-323905546838"
+      (reference "J?") (unit 1) (value "USB_C_Receptacle") (footprint "")
     )
     (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/ed6c4be6-6b10-4417-977d-efb230dd2506"
       (reference "J?") (unit 1) (value "Jack-DC") (footprint "")
@@ -1522,9 +1525,6 @@
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/3110ff89-db45-4c2b-ae20-9f45ed5b62f3"
       (reference "L201") (unit 1) (value "2.2uH") (footprint "")
-    )
-    (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/baceac92-88cf-4c29-a2b6-9336e798c4e5"
-      (reference "P?") (unit 1) (value "USB_C_Plug") (footprint "")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/271287de-d1ab-46e7-9e8d-0eca17ee0aae"
       (reference "R201") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
