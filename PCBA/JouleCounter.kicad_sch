@@ -1222,6 +1222,18 @@
     )
   )
 
+  (sheet (at 127 127) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 128 77 0 0.4000))
+    (uuid 3f787304-0f09-428f-9615-a178d53b5ed2)
+    (property "Sheet name" "Power" (id 0) (at 127 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "power.kicad_sch" (id 1) (at 127 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 38.1 25.4) (size 38.1 88.9) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 216 127 255 0.5700))
@@ -1461,6 +1473,7 @@
     (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65" (page "5"))
     (path "/b0bcfef4-b206-452e-922a-e4174969def9" (page "6"))
     (path "/22f53838-7224-4d50-99f8-44746cd87af7" (page "7"))
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2" (page "8"))
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01" (page "8"))
   )
 
@@ -1618,6 +1631,15 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/9f678891-833a-4ca3-bcec-175ac5a6f206"
       (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/025baa4e-9c0e-4171-ba18-c81707277562"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/ce52e298-4c1f-4e90-ab4b-157701b38695"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/e3b4b56e-1f52-450b-8489-ca84d306ba5d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/5ab0d0b8-0dee-43b0-9b10-f6994da16df9"
       (reference "C201") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -1650,6 +1672,21 @@
     )
     (path "/7bd54514-8f0a-4683-8b19-da3af36c1bff/b2764b85-f565-40f3-9598-c7f6516d1057"
       (reference "C402") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/4eb5c59d-1379-4262-b562-de782e44eab1"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/6ab14622-6f03-4c24-b5d4-28433b10dd40"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/6fc95eb4-92c7-4d72-9433-c707bbf461a7"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/8be65536-d759-4cf3-b037-dc944acc4618"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/ab9857ff-be9c-4f4e-ac17-1db36b35c7f3"
+      (reference "C?") (unit 1) (value "C") (footprint "")
     )
     (path "/83753f19-1938-4fce-8198-e7ca63503313"
       (reference "J101") (unit 1) (value "JTAG") (footprint "")
@@ -1714,6 +1751,9 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/77068506-5e69-47f6-8c18-559ed07a8a9f"
       (reference "R705") (unit 1) (value "200?") (footprint "")
     )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/cb82b248-aec3-4ac6-aaea-dbb7ae20538e"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/d56e2cbb-18b1-4bbb-a667-68ae00ced67f"
       (reference "SW801") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_Tactile_SKHH_Angled")
     )
@@ -1737,6 +1777,12 @@
     )
     (path "/22f53838-7224-4d50-99f8-44746cd87af7/df2400cd-5435-4261-addb-51b872c3b57c"
       (reference "U701") (unit 1) (value "INA181") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/1e50f7c6-3080-4467-aaf5-2bf00cdf949f"
+      (reference "U?") (unit 1) (value "TC2014-3.3VxCTTR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/2e20faf4-7401-46d5-ae6b-fc5bbb32f6ff"
+      (reference "U?") (unit 1) (value "LM5088-1") (footprint "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/c5a59dc7-2bb1-40d5-9012-f726395f3506"
       (reference "Y201") (unit 1) (value "40MHz") (footprint "")
