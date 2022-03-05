@@ -1439,6 +1439,18 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/abc17dac-0d1d-4bc8-936d-afc30ccbf837"
       (reference "#PWR0147") (unit 1) (value "VDD") (footprint "")
     )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/76e48296-ced0-4a92-b314-8760d26ef2a9"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/885785e7-e551-43fa-9a0f-fe1eebaa3172"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/9f678891-833a-4ca3-bcec-175ac5a6f206"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/e5f01fd5-d07e-4f17-bb11-d1cd1412c5e2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/5ab0d0b8-0dee-43b0-9b10-f6994da16df9"
       (reference "C201") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -1490,8 +1502,14 @@
     (path "/b0bcfef4-b206-452e-922a-e4174969def9/fd8423c4-1899-4f45-bc5c-5ade0ca4f7dd"
       (reference "J601") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/0e37a1ae-bf06-4c70-ae4c-e7cee553b0b3"
+      (reference "J701") (unit 1) (value "FH12-24S-0.5SH(55)") (footprint "Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal")
+    )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/3110ff89-db45-4c2b-ae20-9f45ed5b62f3"
       (reference "L201") (unit 1) (value "2.2uH") (footprint "")
+    )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/3dcb82af-5522-4234-9097-cffd473db105"
+      (reference "Q?") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/271287de-d1ab-46e7-9e8d-0eca17ee0aae"
       (reference "R201") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1522,6 +1540,9 @@
     )
     (path "/22f53838-7224-4d50-99f8-44746cd87af7/456f46ba-2422-4e6e-930f-9ba6750d29da"
       (reference "R704") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/77068506-5e69-47f6-8c18-559ed07a8a9f"
+      (reference "R?") (unit 1) (value "200?") (footprint "")
     )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/d56e2cbb-18b1-4bbb-a667-68ae00ced67f"
       (reference "SW801") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_Tactile_SKHH_Angled")
