@@ -1631,7 +1631,10 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/9f678891-833a-4ca3-bcec-175ac5a6f206"
       (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/025baa4e-9c0e-4171-ba18-c81707277562"
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/56a1ef29-168c-402f-8d44-f91a5d00aacf"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/7320b831-6c9d-410e-bcc2-7718f9dd571d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/ce52e298-4c1f-4e90-ab4b-157701b38695"
@@ -1673,20 +1676,32 @@
     (path "/7bd54514-8f0a-4683-8b19-da3af36c1bff/b2764b85-f565-40f3-9598-c7f6516d1057"
       (reference "C402") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/1d54c6db-ceed-4c3f-bdf0-a77eb507c297"
+      (reference "C?") (unit 1) (value "2.2uF") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/2f5d5a12-f522-43f7-a262-6586dd72b407"
+      (reference "C?") (unit 1) (value "2.2uF") (footprint "")
+    )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/4eb5c59d-1379-4262-b562-de782e44eab1"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/6ab14622-6f03-4c24-b5d4-28433b10dd40"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
-    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/6fc95eb4-92c7-4d72-9433-c707bbf461a7"
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/6da45749-6c53-4159-ba51-7df09f25a3b6"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/8be65536-d759-4cf3-b037-dc944acc4618"
       (reference "C?") (unit 1) (value "C") (footprint "")
     )
-    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/ab9857ff-be9c-4f4e-ac17-1db36b35c7f3"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/ac5ddf6d-f0a2-4bde-b86c-22b4cdab4b93"
+      (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/cd5efe4a-84ac-4116-8ebc-f04ff85c5607"
+      (reference "C?") (unit 1) (value "2.2uF") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/cec58b4a-7976-4c00-8f09-220572b409c8"
+      (reference "IC?") (unit 1) (value "L7983PU33R") (footprint "L7983PU33R")
     )
     (path "/83753f19-1938-4fce-8198-e7ca63503313"
       (reference "J101") (unit 1) (value "JTAG") (footprint "")
@@ -1712,11 +1727,20 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/0e37a1ae-bf06-4c70-ae4c-e7cee553b0b3"
       (reference "J701") (unit 1) (value "FH12-24S-0.5SH(55)") (footprint "Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal")
     )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/29c4927e-0dfd-47dc-a393-207206a41aef"
+      (reference "JP?") (unit 1) (value "Disable") (footprint "")
+    )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/3110ff89-db45-4c2b-ae20-9f45ed5b62f3"
       (reference "L201") (unit 1) (value "2.2uH") (footprint "")
     )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/479fa1dd-d543-4db6-a7d4-34a31768b680"
+      (reference "L?") (unit 1) (value "47uH") (footprint "")
+    )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/3dcb82af-5522-4234-9097-cffd473db105"
       (reference "Q701") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/c53a410d-18a4-4414-8442-ad9f1efd5fcb"
+      (reference "Q?") (unit 1) (value "MMBT3904") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/271287de-d1ab-46e7-9e8d-0eca17ee0aae"
       (reference "R201") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1751,8 +1775,29 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/77068506-5e69-47f6-8c18-559ed07a8a9f"
       (reference "R705") (unit 1) (value "200?") (footprint "")
     )
-    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/cb82b248-aec3-4ac6-aaea-dbb7ae20538e"
-      (reference "R?") (unit 1) (value "R") (footprint "")
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/62f7182c-56f9-46be-8cd2-50d56ae32813"
+      (reference "R?") (unit 1) (value "100k") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/64aa3777-09c6-4adb-bce5-5806fd0db7b0"
+      (reference "R?") (unit 1) (value "1M") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/70e422d0-eaa3-4e5d-a1d9-2dd5fd27d876"
+      (reference "R?") (unit 1) (value "DNP") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/7a7a3088-3f69-46e1-be95-1939cece5935"
+      (reference "R?") (unit 1) (value "68k") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/a2e1ff45-0569-485c-bdd0-e2b93c39dafe"
+      (reference "R?") (unit 1) (value "0") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/b0cde090-0dfc-4d00-b821-bea3850b52a9"
+      (reference "R?") (unit 1) (value "0") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/c4590e9a-e002-4d74-858a-2f91c1c8c27c"
+      (reference "R?") (unit 1) (value "100k") (footprint "")
+    )
+    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/de54835c-7df6-47ca-a705-7fa0301aa295"
+      (reference "R?") (unit 1) (value "180k") (footprint "")
     )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/d56e2cbb-18b1-4bbb-a667-68ae00ced67f"
       (reference "SW801") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_Tactile_SKHH_Angled")
@@ -1780,9 +1825,6 @@
     )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/1e50f7c6-3080-4467-aaf5-2bf00cdf949f"
       (reference "U?") (unit 1) (value "TC2014-3.3VxCTTR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
-    )
-    (path "/3f787304-0f09-428f-9615-a178d53b5ed2/2e20faf4-7401-46d5-ae6b-fc5bbb32f6ff"
-      (reference "U?") (unit 1) (value "LM5088-1") (footprint "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias")
     )
     (path "/4847c8c0-6173-45c5-9b4b-8c9418cb5a91/c5a59dc7-2bb1-40d5-9012-f726395f3506"
       (reference "Y201") (unit 1) (value "40MHz") (footprint "")
