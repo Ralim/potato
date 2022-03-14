@@ -17,3 +17,7 @@ OpenSource inline USB-PD Power meter.
 - DC In/Out port
 
 - Accelerometer or tilt switch for rotation?
+
+## Ideas to explore
+
+- As LVGL is a goal for the UI, consider [prototyping](https://docs.lvgl.io/latest/en/html/get-started/pc-simulator.html) on "real" computer or talking to the PineTime team about their experience about developing [UI in NaCL](https://github.com/AppKaki/lvgl-wasm), allowing feedback from web users. If realized, this may allow more explorative development in a less painful environment as you can skip the slow upload/reboot cycle.
