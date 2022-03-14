@@ -16,3 +16,4 @@ OpenSource inline USB-PD Power meter.
 - Small LCD display
 - DC In/Out port
 
+- Accelerometer or tilt switch for rotation?
