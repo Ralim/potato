@@ -18,4 +18,7 @@ set in GLB_UART_Sig_Swap_Set() inside drivers/bl602_driver/std_drv/src/bl602_glb
 
 So we're currently researching this. Help welcome.
 
+![image](https://user-images.githubusercontent.com/97197236/158119342-f2fa74e5-93d4-4910-bfef-eec654abc3fc.png)
+
+
 
