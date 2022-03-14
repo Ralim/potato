@@ -17,3 +17,4 @@ incomprehensible macros and bit-banging.  uart-swap_set is never used. The bits 
 set in GLB_UART_Sig_Swap_Set() inside drivers/bl602_driver/std_drv/src/bl602_glb.c
 
 So we're currently researching this. Help welcome.
+![image](https://user-images.githubusercontent.com/97197236/158113843-82768beb-49a4-4352-a6dd-7d7fecd4eef2.png)
