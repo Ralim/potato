@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "BL60x")(type "KiCad")(uri "${KIPRJMOD}/BL60x.kicad_sym")(options "")(descr ""))
   (lib (name "L7983PU33R")(type "Legacy")(uri "${KIPRJMOD}/L7983PU33R/L7983PU33R.lib")(options "")(descr ""))
+  (lib (name "MP4560DN-LF-Z")(type "Legacy")(uri "${KIPRJMOD}/MP4560DN/MP4560DN-LF-Z.lib")(options "")(descr ""))
 )
