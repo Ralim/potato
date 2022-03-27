@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "L7983PU33R")(type "KiCad")(uri "${KIPRJMOD}/L7983PU33R")(options "")(descr ""))
+  (lib (name "MP4560DN")(type "KiCad")(uri "${KIPRJMOD}/MP4560DN")(options "")(descr ""))
+)

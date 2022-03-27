@@ -980,7 +980,7 @@
     (property "Value" "200?" (id 1) (at 180.34 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 176.022 29.21 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 176.022 29.21 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 177.8 29.21 0)
