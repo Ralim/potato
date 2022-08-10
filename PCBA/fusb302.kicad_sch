@@ -296,7 +296,7 @@
     (uuid dd566b38-8d2c-4b7d-96ee-edd3995ae75c)
   )
 
-  (symbol (lib_id "Device:C") (at 88.9 85.09 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 88.9 85.09 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 43af178f-8af6-441f-ae37-40853cc0a4ce)
     (property "Reference" "C401" (id 0) (at 92.71 83.8199 0)
@@ -315,7 +315,7 @@
     (pin "2" (uuid 1d166e45-de8d-40bf-8982-bc4d5ff0e019))
   )
 
-  (symbol (lib_id "power:GND") (at 101.6 88.9 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 101.6 88.9 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 88056e65-1cd7-4cdd-a1a5-6019e9384f89)
     (property "Reference" "#PWR0124" (id 0) (at 101.6 95.25 0)
@@ -331,7 +331,7 @@
     (pin "1" (uuid 2c789691-5f34-4e61-a9a7-9390f7928db2))
   )
 
-  (symbol (lib_id "power:VDD") (at 88.9 81.28 0) (unit 1)
+  (symbol (lib_id "power:VDD") (at 88.9 81.28 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 897c6f3c-c269-486f-ac5c-c48837b97dfd)
     (property "Reference" "#PWR0126" (id 0) (at 88.9 85.09 0)
@@ -347,7 +347,7 @@
     (pin "1" (uuid bf2d11c6-b7ab-47f9-950a-2f9cfb19219e))
   )
 
-  (symbol (lib_id "power:GND") (at 88.9 88.9 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 88.9 88.9 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8a561e40-7954-40a8-81af-98a2b4e407c1)
     (property "Reference" "#PWR0125" (id 0) (at 88.9 95.25 0)
@@ -363,7 +363,7 @@
     (pin "1" (uuid d1469adb-f223-44e0-aec4-2f5efb9fc06e))
   )
 
-  (symbol (lib_id "power:GND") (at 130.81 96.52 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 130.81 96.52 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b00704da-7c99-4ac9-b795-5b97ca4da31f)
     (property "Reference" "#PWR0122" (id 0) (at 130.81 102.87 0)
@@ -379,7 +379,7 @@
     (pin "1" (uuid f292330f-246a-4831-a6ed-93becd098dcc))
   )
 
-  (symbol (lib_id "Device:C") (at 101.6 85.09 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 101.6 85.09 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b2764b85-f565-40f3-9598-c7f6516d1057)
     (property "Reference" "C402" (id 0) (at 105.41 83.8199 0)
@@ -398,7 +398,7 @@
     (pin "2" (uuid 06690790-bb31-4a75-840a-aa84c5059dee))
   )
 
-  (symbol (lib_id "power:VDD") (at 128.27 76.2 0) (unit 1)
+  (symbol (lib_id "power:VDD") (at 128.27 76.2 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f40d855b-1aa4-4f2b-b2f9-3f14ae50f7cd)
     (property "Reference" "#PWR0123" (id 0) (at 128.27 80.01 0)
@@ -414,7 +414,7 @@
     (pin "1" (uuid dc274709-39cd-4c97-b717-491148a60d86))
   )
 
-  (symbol (lib_id "Interface_USB:FUSB302B01MPX") (at 130.81 86.36 0) (unit 1)
+  (symbol (lib_id "Interface_USB:FUSB302B01MPX") (at 130.81 86.36 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fa2ef2db-a566-482d-9dee-ab79eea688cc)
     (property "Reference" "U401" (id 0) (at 132.8294 96.52 0)
