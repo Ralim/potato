@@ -1719,11 +1719,11 @@
     (path "/11e6ad7b-94c7-4abc-98e0-e4b10d097f65/0b0c7c02-1053-4855-8163-81f29ab03fab"
       (reference "J502") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
     )
+    (path "/b0bcfef4-b206-452e-922a-e4174969def9/eac541fc-730f-496c-80a8-a2a53114756e"
+      (reference "J601") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
+    )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/0e37a1ae-bf06-4c70-ae4c-e7cee553b0b3"
       (reference "J701") (unit 1) (value "FH12-24S-0.5SH(55)") (footprint "Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal")
-    )
-    (path "/b0bcfef4-b206-452e-922a-e4174969def9/eac541fc-730f-496c-80a8-a2a53114756e"
-      (reference "J?") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
     )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/29c4927e-0dfd-47dc-a393-207206a41aef"
       (reference "JP701") (unit 1) (value "Disable") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")

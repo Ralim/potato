@@ -546,7 +546,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle") (at 97.79 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eac541fc-730f-496c-80a8-a2a53114756e)
-    (property "Reference" "J?" (id 0) (at 97.79 83.82 0))
+    (property "Reference" "J601" (id 0) (at 97.79 83.82 0))
     (property "Value" "USB_C_Receptacle" (id 1) (at 97.79 86.36 0))
     (property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A" (id 2) (at 101.6 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
