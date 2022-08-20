@@ -901,7 +901,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6ceb206c-86fc-414f-a969-690021bd5bfd)
   )
-  (label "Spare GPIO 1" (at 76.2 96.52 0)
+  (label "Spare GPIO 1" (at 76.2 119.38 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6e4ada7e-efd2-4fae-a837-bf4b0fad3852)
   )
@@ -917,7 +917,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7fb04b59-92df-4f50-b171-739804dc4c06)
   )
-  (label "LCD DC" (at 76.2 109.22 0)
+  (label "LCD DC" (at 76.2 96.52 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8160420b-6342-4c0d-9da2-f0f36fe40c95)
   )
@@ -961,7 +961,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a3493744-eaac-4285-8aa6-1770e015e594)
   )
-  (label "~{TOUCH_IRQ}" (at 76.2 119.38 0)
+  (label "~{TOUCH_IRQ}" (at 76.2 109.22 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a5ce8d2a-fba9-48b7-ae9a-a14b6688340f)
   )
@@ -1793,9 +1793,6 @@
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/51f9b60b-ff7b-4196-9267-680af09e83f1"
       (reference "C909") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/f833cedb-fa6c-45d4-8bc9-06cb22231f00"
-      (reference "C910") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/861d8f10-f76f-4f14-9f74-e11cce68fcd9"
       (reference "C911") (unit 1) (value "1uf") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -1848,7 +1845,7 @@
       (reference "L901") (unit 1) (value "15") (footprint "Inductor_SMD:L_Wuerth_MAPI-3010")
     )
     (path "/3f787304-0f09-428f-9615-a178d53b5ed2/8a06555e-37b5-4e52-aed5-4db5d56c9572/01a2bdc6-039f-41f7-b045-94d753ea8bb9"
-      (reference "L1001") (unit 1) (value "47uH") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-40xx_HandSoldering")
+      (reference "L1001") (unit 1) (value "47uH") (footprint "Inductor_SMD:L_1210_3225Metric")
     )
     (path "/61f092db-d732-44e6-ab5b-e56a273f9e01/3dcb82af-5522-4234-9097-cffd473db105"
       (reference "Q701") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
