@@ -1,4 +1,4 @@
-20041413596020535
+20051861093912140
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -7958,6 +7958,13 @@ connector barrel jack
 0
 3
 3
+Connector_Card
+CF-Card_3M_N7E50-7516PK-20-WF
+Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
+connector cf
+0
+54
+50
 Connector_Card
 CF-Card_3M_N7E50-A516xx-30
 Compact Flash Card connector, polarization inverse (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)
@@ -52752,6 +52759,13 @@ Heatsink TV5G TO-220 Horizontal
 0
 0
 Heatsink
+Heatsink_Aavid-TV5G_TO220_Horizontal
+Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G
+Heatsink TV5G TO-220 Horizontal 
+0
+0
+0
+Heatsink
 Heatsink_Fischer_FK224xx2201_25x8.3mm
 25x8.3mm Heatsink, 18K/W, TO-220, https://www.fischerelektronik.de/web_fischer/en_GB/$catalogue/fischerData/PR/FK224_220_1_/datasheet.xhtml?branch=heatsinks
 heatsink TO-220
@@ -56272,6 +56286,13 @@ solder jumper open
 0
 5
 3
+L7983PU33R
+L7983PU33R
+DFN10 (3 x 3 x 0.8 mm)
+Integrated Circuit
+0
+11
+11
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -57343,6 +57364,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MP4560DN
+SOIC127P600X170-9N
+SOIC8
+Integrated Circuit
+0
+9
+9
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -72345,6 +72373,20 @@ SOT-143 Reverse Handsoldering
 4
 4
 Package_TO_SOT_SMD
+SOT-143R_Reverse
+SOT-143R Reverse
+SOT-143R Reverse
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-143R_Reverse_Handsoldering
+SOT-143R Reverse Handsoldering
+SOT-143 Reverse Handsoldering
+0
+4
+4
+Package_TO_SOT_SMD
 SOT-143_Handsoldering
 SOT-143 Handsoldering https://www.nxp.com/docs/en/package-information/SOT143B.pdf
 SOT-143 Handsoldering
@@ -75957,7 +75999,7 @@ Bluetooth Module
 30
 30
 RF_Module
-BM78SPPS5xC2
+BM78SPPS5XC2
 Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)
 Bluetooth BR/EDR BLE
 0
