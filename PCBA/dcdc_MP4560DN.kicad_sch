@@ -616,6 +616,12 @@
     (uuid f6f6d411-7468-448d-b60e-741157c1186c)
   )
 
+  (text "https://lcsc.com/product-detail/Power-Inductors_CENKER-CKCS3012-15uH-M_C354559.html"
+    (at 35.56 57.15 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 77313a88-4d6f-41a6-919c-73f558cc069c)
+  )
+
   (hierarchical_label "EN" (shape input) (at 101.6 93.98 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 5f8bae37-8864-4571-979d-5c4cc19fdec8)
@@ -896,8 +902,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d1c7fa2b-6f66-447f-ab0d-f943727d6017)
     (property "Reference" "L901" (id 0) (at 85.09 85.09 90))
-    (property "Value" "L" (id 1) (at 85.09 87.63 90))
-    (property "Footprint" "" (id 2) (at 85.09 91.44 0)
+    (property "Value" "15" (id 1) (at 85.09 87.63 90))
+    (property "Footprint" "Inductor_SMD:L_Wuerth_MAPI-3010" (id 2) (at 85.09 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 85.09 91.44 0)

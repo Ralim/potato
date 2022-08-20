@@ -589,6 +589,12 @@
     (uuid ffc89eae-c529-47e2-a899-49dfcf0c6812)
   )
 
+  (text "https://lcsc.com/product-detail/Inductors-SMD_SHOU-HAN-CY43-47UH_C2929422.html"
+    (at 116.84 60.96 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7e01ec10-2cb2-45e9-8a1c-6c58a479cd7d)
+  )
+
   (label "Lx" (at 154.94 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 87be9f6b-4c49-489f-b153-84806e9c7d46)
@@ -608,7 +614,7 @@
     (uuid 01a2bdc6-039f-41f7-b045-94d753ea8bb9)
     (property "Reference" "L1001" (id 0) (at 171.45 91.44 90))
     (property "Value" "47uH" (id 1) (at 172.72 95.25 90))
-    (property "Footprint" "" (id 2) (at 176.53 92.71 0)
+    (property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_NR-40xx_HandSoldering" (id 2) (at 176.53 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 176.53 92.71 0)
