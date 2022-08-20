@@ -720,7 +720,7 @@
   )
 
   (no_connect (at 149.86 121.92) (uuid d33bd577-9ed7-4698-99e1-2ceec4961eb6))
-  (no_connect (at 147.32 121.92) (uuid d33bd577-9ed7-4698-99e1-2ceec4961eb6))
+  (no_connect (at 147.32 121.92) (uuid d33bd577-9ed7-4698-99e1-2ceec4961eb7))
 
   (wire (pts (xy 152.4 138.43) (xy 152.4 127))
     (stroke (width 0) (type default) (color 0 0 0 0))
