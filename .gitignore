@@ -33,3 +33,6 @@
 *.zip
 PCBA/#auto_saved_files#
 *.kicad_sch-bak
+PCBA/fab/
+
+PCBA/production/
