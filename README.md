@@ -1,3 +1,5 @@
+![Hits Count](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fralim%2Fpotato.json)
+
 # Potato
 
 OpenSource inline USB-PD Power meter.
