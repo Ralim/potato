@@ -1,4 +1,4 @@
-![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fralim%2Fpotato.json)
+![Hits Count](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fralim%2Fpotato.json)
 
 # Potato
 
